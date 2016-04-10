@@ -7,9 +7,9 @@ Made as a present for my friend's birthday
 * Small geared DC motors
 * Pololu wheels and idler
 * 3D printed case
-* iOS app for car control.
+* iOS app for car control
 
-## Some images of finished car
+## Photos
 
 ![Finished car with some decorations](images/img2.jpg)
 ![Finished car with some decorations](images/img1.jpg)
